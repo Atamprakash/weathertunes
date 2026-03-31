@@ -7,8 +7,7 @@ A Python app that recommends music based on real-time weather. Fetches data from
 - API Keys: OpenWeatherMap and Spotify (free tiers available)
 
 ## 🖼️ Project Gallery
-
-<img src="images/Screenshot 2025-11-18 191232.png" width="700">
+<img src="images/Screenshot 2025-11-18 191232.png" width="700" height="500">
 
 <img src="images/Screenshot 2025-11-18 191246.png" width="700" height="500">
 
