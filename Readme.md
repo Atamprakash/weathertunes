@@ -8,9 +8,11 @@ A Python app that recommends music based on real-time weather. Fetches data from
 
 ## 🖼️ Project Gallery
 
-<img src="images/Screenshot 2025-11-18 191232.png" width="900">
+<img src="images/Screenshot 2025-11-18 191232.png" width="700">
 
-<img src="images/Screenshot 2025-11-18 191246.png" width="900">
+<img src="images/Screenshot 2025-11-18 191246.png" width="700">
+
+<img src="images/Screenshot 2025-11-19 120500.png" width="800">
 
 ## 🚀 Key Features
 - **Real-Time Weather:** Fetches live data via OpenWeatherMap API.
