@@ -1,3 +1,4 @@
 /.cache
 /.env
 /weather_lib
+/.streamlit
